@@ -2,7 +2,7 @@ export const dataFake = [
   {
     id: 1,
     title: 'Novo filme da Marvel em 3D',
-    description: 'Saiba aonde assistir os Eternos.',
+    description: 'Saiba aonde assistir Deadpool e Wolverine.',
     photoCover:
       'https://rollingstone.com.br/media/_versions/2024/11/deadpool-wolverine-com-ryan-reynolds-e-hugh-jackman-estreia-no-disney_widelg.jpg',
   },
