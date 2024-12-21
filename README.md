@@ -6,4 +6,4 @@ Tecnologias Utilizadas
 
 - TypeScript
 
-- CSS/SCSS
+- CSS
